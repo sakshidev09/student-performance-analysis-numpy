@@ -86,14 +86,45 @@ student-performance-analysis-numpy/
 ```
 
 ---
+## project workflow
+CSV Dataset
+      ↓
+Load using NumPy
+      ↓
+Statistical Analysis
+      ↓
+Student Analysis
+      ↓
+Grade Analysis
+      ↓
+Sorting & Ranking
+      ↓
+Final Report
 
-## Future Improvements
+## Skills Demonstrated
 
-- Data Analysis using Pandas
-- Data Visualization using Matplotlib
-- Statistical Visualization using Seaborn
-- SQL Integration
-- Power BI Dashboard
+• NumPy
+• Data Analysis
+• Statistical Analysis
+• Boolean Masking
+• Broadcasting
+• Vectorization
+• Sorting
+• Ranking
+
+## Roadmap
+
+✅ NumPy Project
+
+⬜ Pandas Version
+
+⬜ Matplotlib Visualizations
+
+⬜ Seaborn Dashboard
+
+⬜ SQL Integration
+
+⬜ Power BI Dashboard
 
 ---
 
